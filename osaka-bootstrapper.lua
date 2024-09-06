@@ -26,6 +26,8 @@ elseif game.PlaceId == 13772394625 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solarisbb.lua",true))()
 elseif game.PlaceId == 18966752111 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
+elseif game.PlaceId == 5993942214 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
 else
     local notsupported = lib:InitNotifications():Notify("Game not supported.", 3, "information")
 end
