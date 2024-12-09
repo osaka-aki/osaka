@@ -1,7 +1,7 @@
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Consistt/Ui/main/UnLeaked"))()
 
 if game.PlaceId == 286090429 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solarisarsenal_beta.lua",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/kowa-hub/main/kowamain",true))()
 elseif game.PlaceId == 301549746 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
 elseif game.PlaceId == 8735521924 then
