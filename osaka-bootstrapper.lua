@@ -30,6 +30,10 @@ elseif game.PlaceId == 7113341058 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
 elseif game.PlaceId == 17586052747 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/games/solariscb.lua",true))()
+elseif game.PlaceId == 10179538382 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
+elseif game.PlaceId == 117644961475597 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
 else
     local notsupported = lib:InitNotifications():Notify("Game not supported.", 3, "information")
 end
