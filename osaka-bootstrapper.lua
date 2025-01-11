@@ -38,6 +38,8 @@ elseif game.PlaceId == 130375598929421 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
 elseif game.PlaceId == 11177482306 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
+elseif game.PlaceId == 4282985734 then
+    loadstring(game:HttpGet("https://pastefy.app/h6W47mhM/raw",true))()
 else
     local notsupported = lib:InitNotifications():Notify("Game not supported.", 3, "information")
 end
