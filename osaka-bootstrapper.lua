@@ -40,6 +40,12 @@ elseif game.PlaceId == 130375598929421 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
 elseif game.PlaceId == 11177482306 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
+elseif game.PlaceId == 130739873848552 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/roscripts749/loader/refs/heads/main/loader",true))()
+elseif game.PlaceId == 87039211657390 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Arise-Crossover-Keyless-Script-33926",true))()
+elseif game.PlaceId == 17450551531 then
+    loadstring(game:HttpGet("https://noname-hub.fun/loader.lua",true))()
 else
     local notsupported = lib:InitNotifications():Notify("Game not supported.", 3, "information")
 end
