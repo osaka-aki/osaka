@@ -38,7 +38,7 @@ elseif game.PlaceId == 117644961475597 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
 elseif game.PlaceId == 130375598929421 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
-elseif game.PlaceId == 11177482306 then
+elseif game.PlaceId == 101696153348119 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/osaka-aki/osakaki/refs/heads/main/magic.lua",true))()
 elseif game.PlaceId == 130739873848552 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/roscripts749/loader/refs/heads/main/loader",true))()
